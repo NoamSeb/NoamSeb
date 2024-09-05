@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Noam Sebahoun !</h1>
 <h3 align="center">A passionate Game Programmer</h3>
 
+- 🌱 I’m currently learning **At IIM Digital School**
+
 - 👨‍💻 All of my projects are available at [https://noamsebahoun.fr](https://noamsebahoun.fr)
 
 - 📫 How to reach me **noam.sebahoun@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/noam sebahoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noam sebahoun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/noam-sebahoun-03a79a206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noam-sebahoun-03a79a206" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
