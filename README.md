@@ -3,8 +3,8 @@
 
 ### 👨‍💻 About Me
 
-- 🌐 Check out my [website](https://noamsebahoun.fr)
-- - 🌱 I’m currently learning **At IIM Digital School**
+- 🌐 Check out my [portfolio](https://noamsebahoun.fr)
+   🌱 I’m currently learning **At IIM Digital School**
 - 👥 **17** followers · **23** following
 
 ### 🛠️ Languages & Tools
